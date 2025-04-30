@@ -1,5 +1,5 @@
 ## Interesting
-I am interested in frame prediction using disentangled latent variables of images and am currently working on server development using Java.
+Backend Developer (Java/Spring) exploring image processing with Python and TensorFlow.
 
 ### WEB
 - Language: JAVA
