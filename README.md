@@ -1,10 +1,26 @@
-## Interesting
-Backend Developer (Java/Spring) exploring image processing with Python and TensorFlow.
+# Hi there 👋
+I'm a backend developer working with Java and Spring.  
+I'm also exploring image processing and computer vision with Python.
 
-### WEB
-- Language: JAVA
-- Framework: Spring, SpringBoot
-### Computer Vision
-- Language: Python
-- Framework: Tensorflow, Keras
+## Backend
+### Skills
+- Java · Spring Boot
+- PostgreSQL · Redis
+- JPA · MyBatis
+
+### Architecture & Design
+- Domain-Driven Design (DDD)
+- Modular Monolith
+- Hexagonal Architecture (Ports & Adapters)
+
+## Computer Vision 
+
+### Skills
+- Python
+- TensorFlow · Keras
+
+### Interests
+- Image processing
+- Reliable asynchronous processing
+- Data consistency
 
